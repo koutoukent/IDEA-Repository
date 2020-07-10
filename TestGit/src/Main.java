@@ -6,6 +6,6 @@ public class Main
     public void whoami()
     {
         System.out.println("jack!");
-        System.out.println("who are you?");
+        System.out.println("who areyou?");
     }
 }
